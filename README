@@ -3,6 +3,13 @@ alt library
 
 Layers sets
 
-DD	- Mechanical 4
-CAP	- Mechanical 15
-RES	- Mechanical 11
+
+DD_top		- Mechanical 10
+RES_top		- Mechanical 11
+CAP_top		- Mechanical 12
+IND_top		- Mechanical 13
+
+DD_bot		- Mechanical 20
+RES_bot		- Mechanical 21
+CAP_bot		- Mechanical 22
+IND_bot		- Mechanical 23
